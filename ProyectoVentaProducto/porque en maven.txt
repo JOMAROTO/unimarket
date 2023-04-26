@@ -1,0 +1,2 @@
+realice el proyecto en maven para esta entrega porque en gradle me generaba un error de que no podia hacer la conexion a mysql, volvi a realizar la guia y no funcionaba, cree otro proyecto para probar y tampoco.
+para la tercera entrega lo realizare en gradle como se pide en el proyecto.
